@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Refund Policy",
+    "content": "Customers can request a full refund within 30 days of purchase if the item is unused and in its original packaging. Proof of purchase is required for all refund requests. Refunds will be processed to the original payment method within 5-10 business days."
+  },
+  {
+    "id": "2",
+    "title": "Shipping Policy",
+    "content": "We offer standard shipping (3-5 business days) and express shipping (1-2 business days). Standard shipping is free for orders over $50. Once your order has shipped, you will receive a tracking number via email."
+  },
+  {
+    "id": "3",
+    "title": "Privacy Policy",
+    "content": "We take your privacy seriously. We only collect personal information that is necessary to process your orders and improve your shopping experience. We never sell your data to third parties. You can request a copy of your data or deletion of your account at any time."
+  },
+  {
+    "id": "4",
+    "title": "Terms of Service",
+    "content": "By using our website, you agree to comply with our Terms of Service. This includes not using our site for illegal purposes and respecting our intellectual property. We reserve the right to terminate accounts that violate these terms."
+  },
+  {
+    "id": "5",
+    "title": "Contact Support",
+    "content": "Our support team is available 24/7. You can reach us via email at support@gemini-shop.com or through the live chat feature on our website. We aim to respond to all inquiries within 24 hours."
+  },
+  {
+    "id": "6",
+    "title": "Account Security",
+    "content": "To keep your account secure, we recommend using a strong, unique password and enabling two-factor authentication (2FA). Never share your login credentials with anyone. If you suspect your account has been compromised, contact our security team immediately."
+  }
+]
